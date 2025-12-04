@@ -1,5 +1,5 @@
 # Sentiment Analysis by NLP
-
+.
 This repository contains a Jupyter Notebook (`sentiment-analysis-by-nlp.ipynb`) that demonstrates how to perform sentiment analysis using Natural Language Processing (NLP) techniques. Sentiment analysis is a process of determining the emotional tone behind a series of words, used to gain an understanding of the attitudes, opinions, and emotions expressed within an online mention.
 
 ## Table of Contents
